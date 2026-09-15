@@ -7,7 +7,9 @@ date-released: 2026-09-15
 publisher: "BRAIZ Works LLC"
 authors:
   - name: "BRAIZ Works LLC"
-identifiers: []
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22775537"
 abstract: >-
   A founding paper on the operating layer between AI intelligence and reliably completed work. UBuildOS™ defines verified completion as a terminal state in which admitted in-scope obligations are satisfied, verified, validated, supported by proof, and closed.
 license: "All rights reserved"
