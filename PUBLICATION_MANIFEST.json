@@ -1,0 +1,17 @@
+{
+  "title": "UBuildOS Verified Completion™ Thesis",
+  "version": "1.0.5",
+  "publisher": "BRAIZ Works LLC",
+  "document_date": "2026-09-15",
+  "classification": "public-safe / non-confidential",
+  "publication_subject": {
+    "filename": "UBUILDOS_VERIFIED_COMPLETION_THESIS_v1.0.5_FORMAT_R2_FROZEN_20260915.pdf",
+    "size_bytes": 269694,
+    "sha256": "5065c8bae2cc4a738f99f3e781f5d14488896fd272994cbb8253acff7ed6e0d7",
+    "pages": 17
+  },
+  "doi": "pending",
+  "zenodo_status": "draft pending publication",
+  "github_status": "private staging",
+  "rights": "© 2026 BRAIZ Works LLC. All rights reserved."
+}
