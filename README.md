@@ -35,7 +35,8 @@ BRAIZ Works LLC. (2026). *UBuildOS Verified Completion™ Thesis v1.0.5*. Docume
 
 ## DOI
 
-Zenodo DOI: pending publication.
+Reserved Zenodo DOI: `10.5281/zenodo.22775537`  
+Registration becomes effective when the Zenodo record is published.
 
 ## Contact
 
