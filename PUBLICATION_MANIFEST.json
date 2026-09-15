@@ -11,8 +11,8 @@
     "pages": 17
   },
   "doi": "10.5281/zenodo.22775537",
-  "doi_status": "reserved; registers on Zenodo publication",
-  "zenodo_status": "draft pending publication",
-  "github_status": "private staging",
+  "doi_status": "published",
+  "zenodo_status": "published",
+  "github_status": "public",
   "rights": "© 2026 BRAIZ Works LLC. All rights reserved."
 }
