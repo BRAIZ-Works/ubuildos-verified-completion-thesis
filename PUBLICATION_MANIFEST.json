@@ -10,7 +10,8 @@
     "sha256": "5065c8bae2cc4a738f99f3e781f5d14488896fd272994cbb8253acff7ed6e0d7",
     "pages": 17
   },
-  "doi": "pending",
+  "doi": "10.5281/zenodo.22775537",
+  "doi_status": "reserved; registers on Zenodo publication",
   "zenodo_status": "draft pending publication",
   "github_status": "private staging",
   "rights": "© 2026 BRAIZ Works LLC. All rights reserved."
