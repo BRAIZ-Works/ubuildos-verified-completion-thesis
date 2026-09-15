@@ -17,7 +17,7 @@ The paper publishes the thesis, definitions, claim boundaries, high-level operat
 
 ## Frozen publication subject
 
-`UBUILDOS_VERIFIED_COMPLETION_THESIS_v1.0.5_FORMAT_R2_FROZEN_20260915.pdf`
+`UBuildOS_Verified_Completion_Thesis_v1.0.5_FORMAT_R2_2026-09-15.pdf`
 
 SHA-256:
 
